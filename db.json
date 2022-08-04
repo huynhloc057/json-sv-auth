@@ -1,11 +1,3 @@
 {
-  "users": [
-    {
-      "email": "admin@gmail.com",
-      "password": "roleadmin",
-      "name": "Admin",
-      "role": "admin",
-      "id": 8602792133118610242120002
-    }
-  ]
+  "users": []
 }
