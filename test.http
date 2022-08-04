@@ -1,7 +1,3 @@
 POST  http://localhost:5000/register{
-    "email": "olivier@mail.com",
-  "password": "bestPassw0rd",
-  "firstname": "Olivier",
-  "lastname": "Monge",
-  "age": 32
+   
 } 
